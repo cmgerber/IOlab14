@@ -1,0 +1,12 @@
+Subject: http://courses.ischool.berkeley.edu/i290ta/f14/homework-1.xhtml Title:  Get Setup! Due date: 09-04 VM107:10
+Subject: http://courses.ischool.berkeley.edu/i290ta/f14/homework-2.xhtml Title: Back to the Future with CSS3 Due date: 09-11 VM107:10
+Subject: http://courses.ischool.berkeley.edu/i290ta/f14/homework-3.xhtml Title: Scripting - To do? Or not TO DO?! Due date: 09-25 VM107:10
+Subject: http://courses.ischool.berkeley.edu/i290ta/f14/homework-4.xhtml Title: Accessing USGS Earthquake Data Due date: 10-02 VM107:10
+Subject: http://courses.ischool.berkeley.edu/i290ta/f14/homework-5.xhtml Title: Mapping Earthquakes Due date: 10-09 VM107:10
+Subject: http://courses.ischool.berkeley.edu/i290ta/f14/homework-6.xhtml Title: Triples in a Haystack Due date: 10-30 VM107:10
+Subject: _:11 Title: Your Pitches (P1) Due date: 09-16 VM107:17
+Subject: _:13 Title: Your Pitches (P1) Due date: 09-18 VM107:17
+Subject: _:15 Title: Your Pitches (P1) Due date: 09-16 VM107:17
+Subject: _:21 Title: Mockup (P2) Due date: 10-09 VM107:17
+Subject: _:28 Title: Information Design (P3) Due date: 10-30 VM107:17
+Subject: _:36 Title: Implementation Updates (P4) and Fire Fighting Due date: 11-25 

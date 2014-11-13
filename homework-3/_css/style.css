@@ -1,0 +1,46 @@
+/* content */
+
+body {
+    background-color: #C2C2C2;
+    font: 15px 'trebuchet MS', 'lucida sans';
+}
+
+
+#title {
+    margin-left: 34%;
+}
+
+#container {
+	margin: 40px auto;
+	overflow: hidden;
+    width: 90%;
+}
+
+.column {
+	float: left;
+	width: 45%;
+}
+
+#todo-form-add {
+    width: 40%;
+}
+
+.list {
+    margin-left: 5%;
+}
+
+#submit, .todo-list-remove {
+    background: #5F68FF;
+    color: #fff;
+    border: 1px solid #A6A6A6;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px #A6A6A6;
+}
+
+#submit:hover, .todo-list-remove:hover {
+    background: #3D29FF;
+    color: #fff;
+    border: 1px solid #A6A6A6;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px #A6A6A6;
+}

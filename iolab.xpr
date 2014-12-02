@@ -1,10 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<project version="16.0">
+<project version="15.0">
     <meta>
         <filters directoryPatterns="" filePatterns="" positiveFilePatterns="" showHiddenFiles="false"/>
         <options>
-            <serialized version="16.0" xml:space="preserve">
+            <serialized version="15.0" xml:space="preserve">
                 <map>
+                    <entry>
+                        <String>scenario.associations</String>
+                        <scenarioAssociation-array>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>examples/xquery/web/play.xq</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>all is well ...</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XQUERY</String>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>examples/xquery/web/index.xq</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>all is well ...</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XQUERY</String>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                        </scenarioAssociation-array>
+                    </entry>
                     <entry>
                         <String>scenarios</String>
                         <scenario-array>

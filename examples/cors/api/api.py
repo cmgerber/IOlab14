@@ -15,6 +15,7 @@ def getUser(id):
        response = flask.Response(response=json.dumps({ "error" : "Cannot find user "+id}), status=404, mimetype="application/json")
     else:
        response = flask.Response(response=json.dumps(users[id]), status=200, mimetype="application/json")
+    response.headers.add('Access-Control-Allow-Origin', 'http://localhost:8000')
     return response
 
 if __name__ == "__main__":
